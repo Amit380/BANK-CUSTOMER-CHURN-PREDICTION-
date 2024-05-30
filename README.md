@@ -1,4 +1,4 @@
-
+![Image](https://github.com/Amit380/BANK-CUSTOMER-CHURN-PREDICTION-/blob/main/Designer%20(3).png)
 
 # <div align="center">Bank Customer Churn Prediction</div>
 
